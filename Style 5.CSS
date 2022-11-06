@@ -1,0 +1,42 @@
+body {
+    background-color: cyan;
+text-align: center;
+}
+
+
+h1,h2 {
+    color: darkblue;
+}
+
+ol {
+    list-style-type: lower-alpha;
+
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: circle;
+background-color: pink;
+padding: 50px;
+}
+
+
+ul li {
+    background: red;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+ol {
+    list-style-type: circle;
+    background: lightblue;
+    color: white;
+    list-style-position: inside;
+    padding: 50px;
+}
+
+
+ol li {
+    background: blue;
+    margin-bottom:  10px;
+}
